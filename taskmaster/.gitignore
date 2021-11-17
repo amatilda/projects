@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+amatilda.log
+*.conf
+*.d
+*.o
+*.a
+*.dSYM
+taskmaster
